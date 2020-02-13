@@ -1,8 +1,13 @@
 #update
+
 Add three standard wisblock p2p sensor
+
 accelerometer: lis3dh.py
+
 temperature & humidity: shtc3.py
+
 pressure: lps22hb.py
+
 
 
 # Micropython-LoRaWAN-on-RAK4600
